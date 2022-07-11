@@ -1,0 +1,26 @@
+body {
+    background:url("bg01.png");
+    padding: 0;
+    margin: 0;
+}
+
+.letra {
+    color:black;
+    
+}
+
+form
+{
+ width: 350px;
+ height:650/px;
+ background-color: #0000 ;
+ margin-left: 40%;
+ margin-top: 15%;
+ text-align:center;
+
+ /* Border style */
+ border: 1px solid #cccccc;
+ -moz-border-radius: 7px;
+ -webkit-border-radius: 7px;
+ border-radius: 7px;
+}
